@@ -1,0 +1,26 @@
+{
+  "writing": {
+    "platform": "notion",
+    "database_id": "e148bc0aa141420c8a40c68216c4aaaa",
+    "status": {
+      "name": "status",
+      "published": "已发布",
+      "released": "待发布"
+    }
+  },
+  "deploy": {
+    "platform": "default",
+    "classify": "classify",
+    "postPath": "./source/_posts/",
+    "mdNameFormat": "title",
+    "adapter": "matter-markdown"
+  },
+  "image": {
+    "enable": true,
+    "bed": "github",
+    "user": "LetTTGACO",
+    "repo": "image",
+    "branch": "master",
+    "prefixKey": "elog-test"
+  }
+}
